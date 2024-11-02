@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idakoare.github.io/TBk/sitemap_index.txt
+Sitemap: https://idakoare.github.io/WPi/sitemap_index.txt
+Sitemap: https://idakoare.github.io/odu/sitemap_index.txt
+Sitemap: https://idakoare.github.io/yjo/sitemap_index.txt
